@@ -1,0 +1,16 @@
+Jag lyckades nästan, känns det som.
+
+Det som jag inte har fått att fungera, är layouten vid förändring av fönsterbredd.
+
+Speciwellt vid test av mobilenheter, verkar det fungera för huvudsidan, men efter klick
+på en annan sida och därefter tillbakagång till den första sidan, så verkar Chrome ha
+zoomat in, så att delar av layouten plötsligt döljs i höger kant. Där vet jag inte om
+det kan vara en brist i själva DevTools emulator.
+
+Sedan hade den varit trevligt om produkterna kan visas i antingen 4x3, 3x4, 2x6 eller 1x12.
+Nu bluir det istället litet hur som helst i vissa lägen. Verkligen inte bra.
+
+Så jag behöver läsa på mer vad gäller funktionaliteten för xs, sm, md etc.
+
+Mvh Mats
+
