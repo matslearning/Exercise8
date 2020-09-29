@@ -1,0 +1,23 @@
+body {
+    background-color: #281400;
+}
+
+.indexText {
+    width: 421px;
+    min-width: 421px;
+    background-color: #cfc8b0;
+}
+
+.logo-header {
+    background-image: url('logoheader.png');
+}
+
+.product {
+    max-width: 211px;
+}
+
+.party {
+    max-width: 450px;
+}
+
+
